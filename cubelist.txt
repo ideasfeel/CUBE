@@ -131,13 +131,13 @@
       "key": "drpy_js_有声小说",
       "name": "📚 有聲小說",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./有声小说吧.js"
+      "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/有声小说吧.js"
     },
 
     {
