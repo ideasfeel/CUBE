@@ -115,7 +115,7 @@
       "name": "🎵 bili歌曲",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://10526.kstore.vip/xmky.jar",
+      "jar": "./xmky.jar",
       "searchable": 1,
       "ext": {
         "json": "./bili歌曲.json",
@@ -145,7 +145,7 @@
       "name": "📚 bili聽書",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://10526.kstore.vip/xmky.jar",
+      "jar": "./xmky.jar",
       "searchable": 1,
       "ext": {
         "json": "https://10526.kstore.vip/星河影视/bili听书.json",
