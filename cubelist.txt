@@ -127,6 +127,15 @@
       }
     },
 
+{
+"key":"drpy_js_博看听书",
+"name":"📚 博看聽書",
+"type":3,
+"api":"./js/drpy2.min.js","changeable":0,
+"style":{"type":"rect","ratio":1},
+"ext":"./js/博看听书.js"
+},
+
     {
       "key": "drpy_js_有声小说",
       "name": "📚 有聲小說",
@@ -139,6 +148,27 @@
       },
       "ext": "https://10526.kstore.vip/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86/有声小说吧.js"
     },
+{
+"key":"drpy_js_海洋听书",
+"name":"80. 📚 海洋聽書",
+"type":3,
+"api":"./js/drpy2.min.js",
+"changeable":0,
+"style":{"type":"rect","ratio":1},
+"ext":"./js/海洋听书.js"
+},
+
+
+{
+"key":"drpy_js_六月听书",
+"name":"📚 六月聽書",
+"type":3,
+"api":"./js/drpy2.min.js",
+"changeable":0,
+"style":{"type":"rect","ratio":1},
+"ext":"./js/六月听书.js"
+},
+
 
     {
       "key": "bilitingshu",
