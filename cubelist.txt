@@ -7,7 +7,7 @@
       "name": "🎦 熱播影視",
       "type": 3,
       "quickSearch": 1,
-      "api": "https://13826.kstore.space/rebo.py"
+      "api": "./rebo.py"
     },
 
     {
@@ -25,7 +25,7 @@
       "name": "🎦 瓜子影視",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://10526.kstore.vip/xs.jar",
+      "jar": "./xs.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -36,7 +36,7 @@
       "key": "py_aidianying",
       "name": "🎦 Ivdy影視",
       "type": 3,
-      "api": "https://10526.kstore.vip/星河影视/aidianying.py",
+      "api": "./aidianying.py",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0
